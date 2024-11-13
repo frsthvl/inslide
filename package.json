@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "front-matter": "^4.0.2",
+    "marked": "^15.0.0",
+    "nuxt": "^3.14.159",
+    "textfit": "^2.4.0",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+    "nuxt-bunny-fonts": "^1.1.2"
+  }
+}
