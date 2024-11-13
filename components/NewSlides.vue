@@ -1,6 +1,6 @@
 <template>
     <div class="w-full rounded-lg bg-zinc-100 p-6 text-center">
-        <p class="text-xl md:text-4xl mt-0">
+        <p class="text-xl md:text-4xl not-prose mb-4">
             Create new slides from a remote markdown file
         </p>
         <span v-if="error" class="text-red-500 text-sm float-left">{{
