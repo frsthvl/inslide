@@ -1,6 +1,7 @@
 ---
 title: Welcome to Insli.de
 description: Create awesome presentations with markdown in seconds
+background: "#ffffff"
 ---
 
 # 👋 Welcome to Insli.de
@@ -9,6 +10,8 @@ Press right arrow key to continue ↘️
 Create _awesome_ <span style="color: #f97316">**presentations**</span> with <code>markdown</code> in <span style="color: #0ea5e9">no time</span>
 
 ## Completely free
+
+## [Open Source](https://github.com/frsthvl/inslide)
 
 ### No registration required
 
