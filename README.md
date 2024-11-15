@@ -38,6 +38,15 @@ node .output/server/index.mjs
 
 You can use the latest Docker image [frsthvl/inslide](https://hub.docker.com/r/frsthvl/inslide) to deploy your own instance.
 
+```bash
+docker run -d -p 3000:3000 \
+  -e NUXT_HOST=0.0.0.0 \
+  -e NUXT_PORT=3000 \
+  -e NODE_ENV=production \
+  -e APP_URL=https://YOUR-URL \
+  frsthvl/inslide
+```
+
 By default the port 3000 is exposed, but you can change it by setting the `NUXT_PORT` environment variable.
 
 You can also simply use the following `docker-compose.yml` file:
