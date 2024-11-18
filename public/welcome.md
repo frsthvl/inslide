@@ -75,6 +75,11 @@ Or simply copy the url from the address bar...
 
 It's up to you 🤷‍♂️
 
+## And if you like Party Mode 🎉
+
+[confetti]
+Just add `[confetti]` to your section
+
 ## Like using your keyboard?
 
 Then okay, here you go

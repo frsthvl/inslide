@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6.12.2",
+    "@tsparticles/confetti": "^3.5.0",
     "front-matter": "^4.0.2",
     "marked": "^15.0.0",
     "nuxt": "^3.14.159",
