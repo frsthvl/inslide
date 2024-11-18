@@ -13,6 +13,7 @@ Use it [online](https://insli.de) (hosted with [NuxtHub](https://hub.nuxt.com/) 
 -   Fetch markdown files from a public URL
 -   Customizable using frontmatter
 -   No data stored
+-   Add confetti by adding `[confetti]` to your section
 
 ## Selfhosting
 
